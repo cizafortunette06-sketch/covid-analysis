@@ -1,1 +1,5 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+covid_19_clean.csv filter=lfs diff=lfs merge=lfs -text
+covid-data-cleaning/data/covid_19_clean.csv filter=lfs diff=lfs merge=lfs -text
