@@ -1,4 +1,5 @@
 # Global Health Data Analysis 
+
 ## Dataset informations 
 ### Source link : https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv
 ### Cleaned Rows : 570606 raws 
@@ -18,13 +19,13 @@
 | `new_deaths`                     | Nombre de nouveaux décès signalés ce jour                    | float  |
 | `new_deaths_smoothed`            | Moyenne glissante sur 7 jours des nouveaux décès             | float  |
 ## Tools Used 
-Python 3.x – Programming language for data analysis.
-Pandas – Load, clean, and manipulate datasets.
-NumPy – Numerical computations and array operations.
-Matplotlib – Create basic charts like line plots and histograms.
-Seaborn – Advanced statistical visualizations with a clean style.
-Jupyter Notebook – Interactive environment for coding and visualizing results.
-ChatGPT – Assisted in generating explanations, summaries, and improving the README.
+1. Python 3.x – Programming language for data analysis.
+2. Pandas – Load, clean, and manipulate datasets.
+3. NumPy – Numerical computations and array operations.
+4. Matplotlib – Create basic charts like line plots and histograms.
+5. Seaborn – Advanced statistical visualizations with a clean style.
+6. Jupyter Notebook – Interactive environment for coding and visualizing results.
+7. ChatGPT – Assisted in generating explanations, summaries, and improving the README.
 ## Key findings
 ### Concentration of Cases:
 A small number of countries account for the majority of COVID-19 cases, showing that the pandemic’s impact was uneven globally.
